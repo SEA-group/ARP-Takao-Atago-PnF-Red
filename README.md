@@ -1,4 +1,4 @@
-﻿# ARP Takao(Atago) Blue
+﻿# ARP Takao(Atago) Red
 
 ======================Presented by SEA group======================
 
